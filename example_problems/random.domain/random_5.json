@@ -1,0 +1,8 @@
+{
+    "mapFile": "maps/random-32-32-20.map",
+    "agentFile": "agents/random_5.agents",
+    "teamSize": 5,
+    "taskFile": "tasks/random-32-32-5.tasks",
+    "numTasksReveal": 1,
+    "taskAssignmentStrategy": "roundrobin"
+}

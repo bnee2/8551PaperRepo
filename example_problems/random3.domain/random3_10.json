@@ -1,0 +1,8 @@
+{
+    "mapFile": "mapData.map",
+    "agentFile": "agentData.agents",
+    "teamSize": 10,
+    "taskFile": "taskData.tasks",
+    "numTasksReveal": 1,
+    "taskAssignmentStrategy": "roundrobin"
+}

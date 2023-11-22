@@ -1,0 +1,11 @@
+Maps:
+- Random
+- Game
+- City
+- Warehouse
+
+Agents:
+- 5
+- 10
+- 15
+- 20
